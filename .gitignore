@@ -169,3 +169,31 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+venv_name/bin/black
+venv_name/pyvenv.cfg
+venv_name/bin/activate
+venv_name/bin/Activate.ps1
+venv_name/bin/blackd
+venv_name/bin/coverage
+venv_name/bin/coverage3
+venv_name/bin/coverage-3.12
+venv_name/bin/flask
+venv_name/bin/get_gprof
+venv_name/bin/get_objgraph
+venv_name/bin/isort
+venv_name/bin/activate.csh
+venv_name/bin/activate.fish
+venv_name/bin/isort-identify-imports
+venv_name/bin/pip
+venv_name/bin/pip3
+venv_name/bin/pip3.12
+venv_name/bin/py.test
+venv_name/bin/pylint
+venv_name/bin/pylint-config
+venv_name/bin/pyreverse
+venv_name/bin/pytest
+venv_name/bin/python
+venv_name/bin/python3
+venv_name/bin/symilar
+venv_name/bin/undill
+venv_name/bin/python3.12
